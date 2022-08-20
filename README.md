@@ -1,4 +1,5 @@
-Meu Primeiro Repositório 
+Este é o meu jogo
 ======================== 
 
-O Git/GitHub são legais!
+System.out.println("Estou desenvolvendo ele através do programa Unity");
+System.out.println("Códigos usados: C#/javascript");
